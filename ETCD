@@ -1,0 +1,17 @@
+ETCD is a distibuted reliable key-value store that is simple , secure and fast.
+ETCD Cluster: Which stores informtion about 
+ Nodes
+ Pods
+ Configs
+ Secrets
+ Accounts
+ Roles
+ Binding
+ Other
+When you run Kubecontrol get command from ETCD server.
+If any change in cluster such as additional nodes, deploying pods & ReplicaSets are updating in ETCD server.
+Once Updated in ETCD server , then considered the change is completed.
+We can setup cluster two methods
+ 1. from strach - Download binaries 
+ 2. Kubeadm tool
+ 
