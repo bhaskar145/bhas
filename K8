@@ -13,3 +13,6 @@ Kubelet: That listens for instructions form kube api server and manges the conta
 Kube-Proxy: That enables communications between services with in the cluster.
 
 1234567
+
+902445
+final copy
