@@ -11,3 +11,4 @@ Host applications as containers
 
 Kubelet: That listens for instructions form kube api server and manges the containers.
 Kube-Proxy: That enables communications between services with in the cluster.
+12345678
